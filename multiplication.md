@@ -1,4 +1,4 @@
-Multiplication is a fast way to add the same number multiple times.
-Example: if you have 3 groups of 4 apples in each group, you add 4 three times
-3 x 4 =12
-4 x 4 =16
+when you multiply you are taking a number and duplicating it as many times as the second number calls for
+for example 2*3
+you take 2, duplicate it 3 times, for a total of 6.
+so 2*3=6
