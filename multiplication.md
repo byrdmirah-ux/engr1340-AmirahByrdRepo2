@@ -1,2 +1,4 @@
-<p> the multiplication of 2 integers is by creating groups of each number</p>
-<p> in this example of 2x10, you can create 2 groups of 10, counting 10 twice and adding them together</p>
+Multiplication is a fast way to add the same number multiple times.
+Example: if you have 3 groups of 4 apples in each group, you add 4 three times
+3 x 4 =12
+4 x 4 =16
